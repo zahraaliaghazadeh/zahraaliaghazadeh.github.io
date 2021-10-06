@@ -52,90 +52,20 @@
  }
 
 
- .wrapper {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-
-  .card{
-      background-color: #2d2a7b ;
-      height: 200px;
-      margin: 10px;
-  }
-
 
   #logo{
     font-size: 20px;
   }
 
 
-  /* ----------portfolio */
-
-
-.subtitle{
-  font-size: 18px;
-}
-
-
-.card-title{
-  width: 100%;
-  padding: 0;
-  background: #263238;
-  color:white;
-  top:0;
-}
-
-.card .card-image .card-title{
-  bottom: unset;
-
-}
-
-
-
-
-
-
-
-
-  .grid{
-    min-height: 600px !important;
-  }
-
-  .card{
-    min-height: inherit;
-    margin: 5px;
-    padding: 5px;
-  }
-
-  img{
-    object-fit:cover;
-    width:100%;
-    height:100%;
-    border-radius: 25px;
-  }
-
-
-  .wrapper{
-    /* display: grid;
-    grid-template-columns: 
-    "p1 p2 p3"; */
-    display: flex;
-  }
+ 
   
   
   #portfolio-nav{
     background-color: #10a0c4;
   }
 
-  /* #brand-logo{
-    margin: 2px;
-    } */
 
-  /* .first, .second , .third{
-    background-color: lavender;
-    margin: 5px;
-    border-radius: 25px;
-  } */
 
   .btn{
     /* background-color: lightblue; */
@@ -147,15 +77,12 @@
     text-align: center;
   }
 
-/* import a font family */
-
-  @import url("https://fonts.googleapis.com/css?family=Nunito&display=swap");
 
   * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Nunito", sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
   body {
