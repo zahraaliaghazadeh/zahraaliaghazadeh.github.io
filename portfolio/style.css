@@ -144,3 +144,9 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: mediumblue;
   }
+
+  @media screen and (max-width: 600px){
+    .card{
+      display: flex;
+    }
+  }
