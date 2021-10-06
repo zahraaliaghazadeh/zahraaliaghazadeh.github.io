@@ -96,9 +96,8 @@
 
 
 
-/* to fix the size of applications portion cards , is not working */ 
+
   .grid{
-    /* height: 500px; */
     min-height: 600px !important;
   }
 
@@ -115,6 +114,13 @@
     border-radius: 25px;
   }
 
+
+  .wrapper{
+    /* display: grid;
+    grid-template-columns: 
+    "p1 p2 p3"; */
+    display: flex;
+  }
   
   
   
