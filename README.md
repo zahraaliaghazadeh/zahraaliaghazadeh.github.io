@@ -23,7 +23,7 @@ The grid system was not cooperating with me.
  Did you find it easy or challenging to work with HTML and CSS? 
 It is not too challenging.
   How long did this overall assignment take you?
-  a day.
+  2 days.
 * What decisions did you make when you made your site mobile friendly?
 I added a hamburger menu in the navbar and also added some media queries
 I made the decision for screen size by doing some research.
@@ -32,7 +32,7 @@ This could have definitely be a better project if I spend more time on it.
 * Given more time or resources, what additional features would you add to your site in the future? 
 I can add animations and better design.
 How many hours did you spend on this assignment?
-a day
+2 days
 
 
 ## Screenshots
