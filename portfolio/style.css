@@ -133,4 +133,14 @@
 
   .first, .second , .third{
     background-color: lavender;
+    margin: 5px;
+    border-radius: 25px;
+  }
+
+  .btn{
+    background-color: lightblue;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: mediumblue;
   }
