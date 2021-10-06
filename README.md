@@ -59,7 +59,7 @@ To-do list:
 * make the looks of it better by finding better colors and alignment of photos and texts.
 * has to improve in terms of adjusting the screen size.
 * Color pallet needs to be chosen
-* Need to add more to the projects in portfolio
+* Need to add more of my projects to the portfolio section
 
 
 ## Status
