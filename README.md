@@ -68,6 +68,9 @@ Portfolio is: _in progress_, as there will be more projects in the course to be 
 ## Inspiration
 A start to having an outstanding portfolio has been the inspiration.
 
+## Reference
+I referenced the internet and my past projects for this assignment.
+
 ## Contact
 Email: zahraaliaghazadeh@gmail.com
 
