@@ -36,8 +36,8 @@ a day
 
 
 ## Screenshots
-![Screenshot](assets/images/screenshot1.png)
-![Screenshot](assets/images/screenshot2.png)
+<!-- ![Screenshot](assets/images/screenshot1.png)
+![Screenshot](assets/images/screenshot2.png) -->
 
 
 ## Technologies
