@@ -58,5 +58,13 @@
 
   #logo{
     font-size: 20px;
-    color:darksalmon
+    background-color: #10a0c4;
   }
+
+  p{
+    font-size: larger;
+  }
+
+  #brand-logo{
+    margin: 2px;
+    }
