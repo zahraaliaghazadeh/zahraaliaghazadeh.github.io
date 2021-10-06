@@ -1,5 +1,5 @@
-# Project Name
-> Here goes your awesome project description!
+# Project 1
+> HTML and CSS based portfolio deployed with GitHub Pages.
 
 ## Table of contents
 * [General-info](#General-info)
@@ -56,8 +56,10 @@ To view this portfolio you can click : [here](https://zahraaliaghazadeh.github.i
 
 
 To-do list:
-* improvement to be done 1: make the looks of it better by finding better colors and alignment of photos and texts.
-* improvement to be done 2: has to improve in terms of adjusting the screen size.
+* make the looks of it better by finding better colors and alignment of photos and texts.
+* has to improve in terms of adjusting the screen size.
+* Color pallet needs to be chosen
+* Need to add more to the projects in portfolio
 
 
 ## Status
