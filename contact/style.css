@@ -47,13 +47,16 @@
     background-color: #fdfbd6;
   }
 
-  .bio{
-      padding: 20px;
-  }
+ .header{
+     padding: 20px;
+ }
 
-  .profile-picture{
-      margin: 20px;
-      float: left;
-  }
 
-  
+ .links{
+     text-decoration: none;
+     margin: 5px;
+ }
+
+ .contact{
+     margin: 20px;
+ }

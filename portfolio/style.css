@@ -47,13 +47,19 @@
     background-color: #fdfbd6;
   }
 
-  .bio{
-      padding: 20px;
+ .header{
+     padding: 20px;
+ }
+
+
+ .wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
   }
 
-  .profile-picture{
-      margin: 20px;
-      float: left;
+  .card{
+      background-color: #2d2a7b ;
+      height: 200px;
+      margin: 10px;
   }
-
   
