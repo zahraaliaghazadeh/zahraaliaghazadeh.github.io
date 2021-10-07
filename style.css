@@ -56,7 +56,9 @@
 
   .profile-picture{
       margin: 20px;
-      float: left;
+      /* float: left; */
+      display: flex;
+      flex-wrap: wrap;
   }
 
   #logo{
